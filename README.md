@@ -11,7 +11,7 @@
 
 <!-- - 👯 I’m looking to collaborate on [Frontend projects](#) -->
 
-- 👨‍💻 All of my projects are available at [https://owais9061.github.io/personal-portfolio/#home](https://owais9061.github.io/personal-portfolio/#home)
+- 👨‍💻 All of my **Projects** are available at [Vist Portfolio..](https://owais9061.github.io/personal-portfolio/#home)
 
 <!-- - 📝 I regularly write articles at [https://owais9061.github.io/personal-portfolio/#blog](https://owais9061.github.io/personal-portfolio/#blog) -->
 
@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **owaischaudhry906@gmail.com**
 
-- 📄 Know about my experiences [Here's my Resume](https://drive.google.com/file/d/1jpSTzyitUaG4IjOEnG8wjSe8BrrcfLFA/view?usp=share_link)
+- 📄 CV/Resume? [Here it is..](https://drive.google.com/file/d/1jpSTzyitUaG4IjOEnG8wjSe8BrrcfLFA/view?usp=share_link)
 
-- ⚡ Fun fact **I love poetry.**
+- ⚡ Fun fact **I love long conversations..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
