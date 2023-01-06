@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **owaischaudhry906@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jpSTzyitUaG4IjOEnG8wjSe8BrrcfLFA/view?usp=share_link](https://drive.google.com/file/d/1jpSTzyitUaG4IjOEnG8wjSe8BrrcfLFA/view?usp=share_link)
+- 📄 Know about my experiences [Here's my Resume](https://drive.google.com/file/d/1jpSTzyitUaG4IjOEnG8wjSe8BrrcfLFA/view?usp=share_link)
 
 - ⚡ Fun fact **I love poetry.**
 
