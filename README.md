@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Owais</h1>
 <h3 align="center">A Foolish FrontEnd Developer, obsessed with better UI/UX.</h3>
 
@@ -5,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/foolish_engr" target="blank"><img src="https://img.shields.io/twitter/follow/foolish_engr?logo=twitter&style=for-the-badge" alt="foolish_engr" /></a> </p>
 
-- 🔭 I’m currently working on [JavaScript](#)
+➡ I’m currently working on [JavaScript](#)
 
-- 🌱 I’m currently learning **JavaScript & React**
+➡ I’m currently learning **JavaScript & React**
 
 <!-- - 👯 I’m looking to collaborate on [Frontend projects](#) -->
 
-- 👨‍💻 All of my **Projects** are available at [Vist Portfolio..](https://owais9061.github.io/personal-portfolio/#home)
+-➡ All of my **Projects** are available at [Vist Portfolio..](https://owais9061.github.io/personal-portfolio/#home)
 
 <!-- - 📝 I regularly write articles at [https://owais9061.github.io/personal-portfolio/#blog](https://owais9061.github.io/personal-portfolio/#blog) -->
 
-- 💬 Ask me about **Web Development & UI/UX**
+💬 Ask me about **Web Development & UI/UX**
 
-- 📫 How to reach me **owaischaudhry906@gmail.com**
+📫 How to reach me **owaischaudhry906@gmail.com**
 
-- 📄 CV/Resume? [Here it is..](https://drive.google.com/file/d/1jpSTzyitUaG4IjOEnG8wjSe8BrrcfLFA/view?usp=share_link)
+📄 CV/Resume? [Here it is..](https://drive.google.com/file/d/1jpSTzyitUaG4IjOEnG8wjSe8BrrcfLFA/view?usp=share_link)
 
-- ⚡ Fun fact **I love long conversations..**
+⚡ Fun fact **I love long conversations..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
