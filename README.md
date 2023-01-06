@@ -1,6 +1,7 @@
+<div><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz2S6o4FQF1yO-lY4hsV94kVBzIh0CexC7wRusrlGTWrjM72A8Ig-6nDuz2R0xw3So8kAI86wQmbpPb7AwYrnE5Y0m8Xod8WMrOq43-_k062hwziek8DYEjJXlFYj4K6L7olDwTvd4WZtSgCcoa2jSt_zjZBcm2J7IrdgMLx3-r5zbCsXBVks0IzqI2Q/s6912/Owais-Gujjar-banner-GitHub.png" align="center" style="width: 90%" />
+</div> 
 
-
-<h1 align="center">Hi 👋, I'm Owais</h1>
+<!-- <h1 align="center">Hi 👋, I'm Owais</h1> -->
 <h3 align="center">A Foolish FrontEnd Developer, obsessed with better UI/UX.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owais9061&label=Profile%20views&color=0e75b6&style=flat-square" alt="owais9061" /> </p>
