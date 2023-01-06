@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **JavaScript & React**
 
-- 👯 I’m looking to collaborate on [Frontend projects](#)
+<!-- - 👯 I’m looking to collaborate on [Frontend projects](#) -->
 
 - 👨‍💻 All of my projects are available at [https://owais9061.github.io/personal-portfolio/#home](https://owais9061.github.io/personal-portfolio/#home)
 
-- 📝 I regularly write articles at [https://owais9061.github.io/personal-portfolio/#blog](https://owais9061.github.io/personal-portfolio/#blog)
+<!-- - 📝 I regularly write articles at [https://owais9061.github.io/personal-portfolio/#blog](https://owais9061.github.io/personal-portfolio/#blog) -->
 
 - 💬 Ask me about **Web Development & UI/UX**
 
