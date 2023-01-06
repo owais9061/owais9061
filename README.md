@@ -13,7 +13,7 @@
 
 <!-- - 👯 I’m looking to collaborate on [Frontend projects](#) -->
 
--➡ All of my **Projects** are available at [Vist Portfolio..](https://owais9061.github.io/personal-portfolio/#home)
+➡ All of my **Projects** are available at [Vist Portfolio..](https://owais9061.github.io/personal-portfolio/#home)
 
 <!-- - 📝 I regularly write articles at [https://owais9061.github.io/personal-portfolio/#blog](https://owais9061.github.io/personal-portfolio/#blog) -->
 
