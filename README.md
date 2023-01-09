@@ -2,7 +2,7 @@
 </div> 
 
 <!-- <h1 align="center">Hi 👋, I'm Owais</h1> -->
-<h3 align="center">A Foolish FrontEnd Developer, obsessed with better UI/UX.</h3>
+<h2 align="center">A Foolish FrontEnd Developer</h2>, <h3>obsessed with better UI/UX.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owais9061&label=Profile%20views&color=0e75b6&style=flat-square" alt="owais9061" /> </p>
 
