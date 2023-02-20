@@ -26,7 +26,7 @@
 
 ⚡ Fun fact **I love long conversations..**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find me on:</h3>
 <p align="left">
 <a href="https://twitter.com/foolish_engr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="foolish_engr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/owais-gujjar-46273125b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/owais-gujjar-46273125b/" height="30" width="40" /></a>
