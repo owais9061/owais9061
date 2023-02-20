@@ -18,7 +18,7 @@
 
 <!-- - 📝 I write articles at [https://owais9061.github.io/personal-portfolio/#blog](https://owais9061.github.io/personal-portfolio/#blog) -->
 
-💬 Ask me about **Web Development & UI/UX**
+💬 Ask me about **Web Development, UI/UX & AI**
 
 📫 How to reach me **owaischaudhry906@gmail.com**
 
