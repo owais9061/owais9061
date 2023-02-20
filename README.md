@@ -2,7 +2,7 @@
 </div> 
 
 <!-- <h1 align="center">Hi 👋, I'm Owais</h1> -->
-<h2 align="center">A Foolish FrontEnd Engineee, obsessed with better UI/UX.</h2>
+<h2 align="center">A Foolish FrontEnd Engineer, obsessed with better UI/UX.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owais9061&label=Profile%20views&color=0e75b6&style=flat-square" alt="owais9061" /> </p>
 
@@ -16,7 +16,7 @@
 
 ➡ All of my **Projects** are available at [Vist Portfolio..](https://owais9061.github.io/personal-portfolio/#home)
 
-<!-- - 📝 I regularly write articles at [https://owais9061.github.io/personal-portfolio/#blog](https://owais9061.github.io/personal-portfolio/#blog) -->
+<!-- - 📝 I write articles at [https://owais9061.github.io/personal-portfolio/#blog](https://owais9061.github.io/personal-portfolio/#blog) -->
 
 💬 Ask me about **Web Development & UI/UX**
 
