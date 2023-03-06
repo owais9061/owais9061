@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/foolish_engr" target="blank"><img src="https://img.shields.io/twitter/follow/foolish_engr?logo=twitter&style=for-the-badge" alt="foolish_engr" /></a> </p>
 
-➡ I’m currently working on [JavaScript](#)
+<!-- ➡ I’m currently working on [JavaScript](#) -->
 
 ➡ I’m currently learning **JavaScript & React**
 
