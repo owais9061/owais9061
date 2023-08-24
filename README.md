@@ -14,7 +14,7 @@
 
 <!-- - 👯 I’m looking to collaborate on [Frontend projects](#) -->
 
-➡ All of my **Projects** are available at [Vist Portfolio..](https://owais9061.github.io/personal-portfolio/#home)
+➡ All of my **Projects** are available at [Vist Portfolio..](#)
 
 <!-- - 📝 I write articles at [https://owais9061.github.io/personal-portfolio/#blog](https://owais9061.github.io/personal-portfolio/#blog) -->
 
@@ -24,7 +24,7 @@
 
 📄 CV/Resume? [Here it is..](https://drive.google.com/file/d/1jpSTzyitUaG4IjOEnG8wjSe8BrrcfLFA/view?usp=share_link)
 
-⚡ Fun fact **I love long conversations..**
+⚡ Fun fact **I'm a conversationist !!**
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
