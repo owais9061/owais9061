@@ -2,15 +2,15 @@
 </div> 
 
 <!-- <h1 align="center">Hi 👋, I'm Owais</h1> -->
-<h2 align="center">Frontend Engineer & AI Enthusiast</h2>
+<h2 align="center">Aspiring Frontend Engineer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owais9061&label=Profile%20views&color=0e75b6&style=flat-square" alt="owais9061" /> </p>
 
 <p align="left"> <a href="https://twitter.com/foolish_engr" target="blank"><img src="https://img.shields.io/twitter/follow/foolish_engr?logo=twitter&style=for-the-badge" alt="foolish_engr" /></a> </p>
 
-<!-- ➡ I’m currently working on [JavaScript](#) -->
+<!-- ➡ I’m currently working on [React](#) -->
 
-➡ I’m currently learning **JavaScript & React**
+➡ I’m currently learning **Full Stack Javascript**
 
 <!-- - 👯 I’m looking to collaborate on [Frontend projects](#) -->
 
